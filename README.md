@@ -13,10 +13,15 @@ Features
 The game has the following features:
 
 Classic gameplay and design
+
 Simple controls using on screen keys
+
 Scoring system to keep track of points earned
+
 Randomized tetromino shapes for each game
+
 Increasing game speed as the player progresses
+
 Contributing
 Contributions to the game are welcome. You can contribute by creating pull requests or reporting issues.
 
